@@ -1,0 +1,5 @@
+F:\project\vs2013\复习\ReCapcha\ReCapcha\Yanzhengma\bin\Debug\Yanzhengma.dll
+F:\project\vs2013\复习\ReCapcha\ReCapcha\Yanzhengma\bin\Debug\Yanzhengma.pdb
+F:\project\vs2013\复习\ReCapcha\ReCapcha\Yanzhengma\obj\Debug\Yanzhengma.dll
+F:\project\vs2013\复习\ReCapcha\ReCapcha\Yanzhengma\obj\Debug\Yanzhengma.pdb
+F:\project\vs2013\复习\ReCapcha\ReCapcha\Yanzhengma\obj\Debug\Yanzhengma.csprojResolveAssemblyReference.cache

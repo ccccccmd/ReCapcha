@@ -1,0 +1,15 @@
+F:\project\vs2013\复习\ReCapcha\ReCapcha\Test\bin\Debug\Test.exe.config
+F:\project\vs2013\复习\ReCapcha\ReCapcha\Test\obj\Debug\Test.Properties.Resources.resources
+F:\project\vs2013\复习\ReCapcha\ReCapcha\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+F:\project\vs2013\复习\ReCapcha\ReCapcha\Test\bin\Debug\Test.exe
+F:\project\vs2013\复习\ReCapcha\ReCapcha\Test\bin\Debug\Test.pdb
+F:\project\vs2013\复习\ReCapcha\ReCapcha\Test\obj\Debug\Test.exe
+F:\project\vs2013\复习\ReCapcha\ReCapcha\Test\obj\Debug\Test.pdb
+F:\project\vs2013\复习\ReCapcha\ReCapcha\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+F:\project\vs2013\复习\ReCapcha\ReCapcha\Test\obj\Debug\Test.Form2.resources
+F:\project\vs2013\复习\ReCapcha\ReCapcha\Test\obj\Debug\Test.ZimoList.resources
+F:\project\vs2013\复习\ReCapcha\ReCapcha\Test\obj\Debug\Test.Process1.resources
+F:\project\vs2013\复习\ReCapcha\ReCapcha\Test\obj\Debug\Test.Process2.resources
+F:\project\vs2013\复习\ReCapcha\ReCapcha\Test\obj\Debug\Test.Process3.resources
+F:\project\vs2013\复习\ReCapcha\ReCapcha\Test\obj\Debug\Test.Process4.resources
+F:\project\vs2013\复习\ReCapcha\ReCapcha\Test\obj\Debug\Test.gp_down.resources

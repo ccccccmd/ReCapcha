@@ -1,0 +1,15 @@
+http://id.sspu.edu.cn/cas/codeimage        sspu
+
+http://image.kuwo.cn/mlog/reg/yanzheng.jpg  kuwo
+
+
+http://www.wan188.com/VerifyCode.aspx    电玩网
+
+http://my2010.usst.edu.cn/captchaGenerate.portal  上海理工大学
+
+http://student.tongji.edu.cn/captchaGenerate.portal   同济大学
+
+
+http://mail.alu.fudan.edu.cn/coremail/displayVerifyCode.jsp?sid=BAXfbfBBwXyrGZeatjBBiKdWIhYacTXh&category=forgetpassword&   复旦大学
+
+http://login.zqgame.com/verifyCode.jpg   中青宝在线社区
