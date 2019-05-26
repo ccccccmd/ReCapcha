@@ -17,6 +17,9 @@
 ## http://www.cnblogs.com/cnduan/p/5154419.html
  
 **为了方便大家实验，实验中用到的验证码图片，字模等资源都放在项目的`bin`下** 
+
+![](http://ww1.sinaimg.cn/large/ec649803gy1g3elnyteqgj20pf0ep40p.jpg)
+
  
 # 发票编号识别案例：
 
