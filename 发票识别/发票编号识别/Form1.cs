@@ -98,7 +98,7 @@ namespace 发票编号识别
             }
             catch (Exception ex)
             {
-                File.AppendAllText("e:\\error.txt",ex.Message);
+                File.AppendAllText("error.txt",ex.Message);
                 throw;
 
             }

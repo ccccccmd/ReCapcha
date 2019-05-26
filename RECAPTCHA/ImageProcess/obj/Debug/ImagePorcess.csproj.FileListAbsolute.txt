@@ -1,0 +1,14 @@
+F:\project\vs2013\复习\ReCapcha\ReCapcha\Yanzhengma\bin\Debug\Yanzhengma.dll
+F:\project\vs2013\复习\ReCapcha\ReCapcha\Yanzhengma\bin\Debug\Yanzhengma.pdb
+F:\project\vs2013\复习\ReCapcha\ReCapcha\Yanzhengma\obj\Debug\Yanzhengma.dll
+F:\project\vs2013\复习\ReCapcha\ReCapcha\Yanzhengma\obj\Debug\Yanzhengma.pdb
+E:\github\ReCapcha\ReCapcha\Yanzhengma\bin\Debug\Yanzhengma.dll
+E:\github\ReCapcha\ReCapcha\Yanzhengma\bin\Debug\Yanzhengma.pdb
+E:\github\ReCapcha\ReCapcha\Yanzhengma\obj\Debug\ImagePorcess.csprojResolveAssemblyReference.cache
+E:\github\ReCapcha\ReCapcha\Yanzhengma\obj\Debug\Yanzhengma.dll
+E:\github\ReCapcha\ReCapcha\Yanzhengma\obj\Debug\Yanzhengma.pdb
+D:\myapp\ReCapcha\ReCapcha\Yanzhengma\bin\Debug\ImageProcess.dll
+D:\myapp\ReCapcha\ReCapcha\Yanzhengma\bin\Debug\ImageProcess.pdb
+D:\myapp\ReCapcha\ReCapcha\Yanzhengma\obj\Debug\ImagePorcess.csproj.CoreCompileInputs.cache
+D:\myapp\ReCapcha\ReCapcha\Yanzhengma\obj\Debug\ImageProcess.dll
+D:\myapp\ReCapcha\ReCapcha\Yanzhengma\obj\Debug\ImageProcess.pdb
