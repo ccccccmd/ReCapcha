@@ -18,7 +18,7 @@
  
 **为了方便大家实验，实验中用到的验证码图片，字模等资源都放在项目的`bin`下** 
 
-![](http://ww1.sinaimg.cn/large/ec649803gy1g3elnyteqgj20pf0ep40p.jpg)
+
 
  
 # 发票编号识别案例：
@@ -31,3 +31,7 @@
 ## http://v.youku.com/v_show/id_XMTI1MzUxNDY3Ng==.html
  
  
+![](http://ww1.sinaimg.cn/large/ec649803gy1g3elnyteqgj20pf0ep40p.jpg)
+![](http://ww1.sinaimg.cn/large/ec649803gy1g3elt43hv8j20i3079tci.jpg)
+![](http://ww1.sinaimg.cn/large/ec649803gy1g3elt40f6jj20ix086gmz.jpg)
+![](http://ww1.sinaimg.cn/large/ec649803gy1g3elt3zex9j20hc04gjsz.jpg)
